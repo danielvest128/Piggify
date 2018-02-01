@@ -1,0 +1,8 @@
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\obj\Debug\Interop.SpeechLib.dll
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\obj\Debug\SimpleTTS.csproj.ResolveComReference.cache
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\obj\Debug\SimpleTTS.csprojResolveAssemblyReference.cache
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\bin\Debug\SimpleTTS.exe
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\bin\Debug\SimpleTTS.pdb
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\bin\Debug\Interop.SpeechLib.dll
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\obj\Debug\SimpleTTS.exe
+C:\Users\dan\Desktop\2017 school2\C#\voiceTest\SimpleTTS\obj\Debug\SimpleTTS.pdb

@@ -1,0 +1,27 @@
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.exe.config
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.exe
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.pdb
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3_2.Form1.resources
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3_2.Properties.Resources.resources
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.csproj.GenerateResource.Cache
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.exe
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.pdb
+C:\Users\dan\Desktop\2017 school2\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.csprojResolveAssemblyReference.cache
+F:\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.exe.config
+F:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.exe
+F:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.pdb
+F:\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.exe
+F:\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.pdb
+F:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.csprojResolveAssemblyReference.cache
+F:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3_2.Form1.resources
+F:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3_2.Properties.Resources.resources
+F:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.csproj.GenerateResource.Cache
+E:\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.exe.config
+E:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.exe
+E:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.pdb
+E:\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.exe
+E:\C#\ProjectA3-2\ProjectA3-2\bin\Debug\ProjectA3-2.pdb
+E:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.csprojResolveAssemblyReference.cache
+E:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3_2.Form1.resources
+E:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3_2.Properties.Resources.resources
+E:\C#\ProjectA3-2\ProjectA3-2\obj\Debug\ProjectA3-2.csproj.GenerateResource.Cache
